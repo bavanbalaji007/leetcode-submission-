@@ -6,16 +6,56 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 2 |
+| 16 | 15 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
+- [binary search](#binary-search) (1)
+- [brute force](#brute-force) (4)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [strings](#strings) (1)
+- [expression parsing](#expression-parsing) (1)
+- [greedy](#greedy) (2)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (4)
+- [math](#math) (8)
+- [number theory](#number-theory) (1)
+- [schedules](#schedules) (1)
+- [sortings](#sortings) (4)
+- [strings](#strings) (4)
+- [two pointers](#two-pointers) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2198A | [Twice](https://codeforces.com/contest/2198/problem/A) | Unrated | [Kotlin 1.7](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2198/A%20-%20Twice/solution.txt) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.java) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.java) |
+| 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.java) |
+| 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.java) |
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.java) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.java) |
 
 ### dp
 
@@ -23,11 +63,82 @@
 |---|---------|------------|----------|
 | 2242D | [Two Digit Strings](https://codeforces.com/contest/2242/problem/D) | 1600 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2242/D%20-%20Two%20Digit%20Strings/solution.java) |
 
+### expression parsing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.java) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2188B | [Seats](https://codeforces.com/contest/2188/problem/B) | 1000 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2188/B%20-%20Seats/solution.java) |
+| 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.java) |
+
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.java) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.java) |
+| 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.java) |
+| 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.java) |
+| 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2195/B%20-%20Heapify%201/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2148A | [Sublime Sequence](https://codeforces.com/contest/2148/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2148/A%20-%20Sublime%20Sequence/solution.java) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2167/A%20-%20Square%3F/solution.java) |
+| 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.java) |
+| 2193A | [DBMB and the Array](https://codeforces.com/contest/2193/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2193/A%20-%20DBMB%20and%20the%20Array/solution.java) |
+| 2194A | [Lawn Mower](https://codeforces.com/contest/2194/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2194/A%20-%20Lawn%20Mower/solution.java) |
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.java) |
+| 2203A | [Towers of Boxes](https://codeforces.com/contest/2203/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2203/A%20-%20Towers%20of%20Boxes/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
+
+### schedules
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.java) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2167/A%20-%20Square%3F/solution.java) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2167/B%20-%20Your%20Name/solution.java) |
+| 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.java) |
+| 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2195/B%20-%20Heapify%201/solution.java) |
+
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.java) |
+| 2167B | [Your Name](https://codeforces.com/contest/2167/problem/B) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2167/B%20-%20Your%20Name/solution.java) |
+| 2192A | [String Rotation Game](https://codeforces.com/contest/2192/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2192/A%20-%20String%20Rotation%20Game/solution.java) |
 | 2242D | [Two Digit Strings](https://codeforces.com/contest/2242/problem/D) | 1600 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2242/D%20-%20Two%20Digit%20Strings/solution.java) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2185D | [OutOfMemoryError](https://codeforces.com/contest/2185/problem/D) | 1100 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2185/D%20-%20OutOfMemoryError/solution.java) |
 
 ---
 
