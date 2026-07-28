@@ -23,7 +23,7 @@ class Solution {
         }
         int count=0;
         for(int i=1;i<N+1;i++){
-            if(i==leader[i]) count++;
+            if(i==find(leader,i)) count++;
         }
         return count;
     }
