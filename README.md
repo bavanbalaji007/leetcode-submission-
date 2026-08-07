@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 23 |
+| 35 | 23 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (2)
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (9)
@@ -52,6 +52,7 @@
 | 2198A | [Twice](https://codeforces.com/contest/2198/problem/A) | Unrated | [Kotlin 1.7](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2198/A%20-%20Twice/solution.txt) |
 | 2248A | [You Delete, I Delete](https://codeforces.com/contest/2248/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2248/A%20-%20You%20Delete%2C%20I%20Delete/solution.java) |
 | 2250A | [Threshold Movement](https://codeforces.com/contest/2250/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2250/A%20-%20Threshold%20Movement/solution.java) |
+| 2253A | [The Best Card](https://codeforces.com/contest/2253/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2253/A%20-%20The%20Best%20Card/solution.java) |
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2254/A%20-%20Riptide/solution.java) |
 
 ### binary search
