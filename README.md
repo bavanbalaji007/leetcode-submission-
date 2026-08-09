@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 23 |
+| 36 | 23 |
 
 ---
 
@@ -29,10 +29,10 @@
 - [greedy](#greedy) (8)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (9)
-- [math](#math) (15)
+- [math](#math) (16)
 - [number theory](#number-theory) (3)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (6)
 - [two pointers](#two-pointers) (1)
 
@@ -190,6 +190,7 @@
 | 2217C | [Grid Covering](https://codeforces.com/contest/2217/problem/C) | 1300 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2217/C%20-%20Grid%20Covering/solution.java) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.java) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.java) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### number theory
 
@@ -214,6 +215,7 @@
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.java) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2195/B%20-%20Heapify%201/solution.java) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.java) |
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### strings
 
