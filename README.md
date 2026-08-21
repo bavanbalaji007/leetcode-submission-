@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 24 |
+| 39 | 24 |
 
 ---
 
@@ -21,13 +21,13 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [expression parsing](#expression-parsing) (1)
 - [fft](#fft) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (9)
 - [math](#math) (16)
@@ -114,6 +114,7 @@
 | 2184C | [Huge Pile](https://codeforces.com/contest/2184/problem/C) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2184/C%20-%20Huge%20Pile/solution.cpp) |
 | 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.java) |
 | 2242D | [Two Digit Strings](https://codeforces.com/contest/2242/problem/D) | 1600 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2242/D%20-%20Two%20Digit%20Strings/solution.java) |
+| 2248C | [Maximize the Score](https://codeforces.com/contest/2248/problem/C) | 1300 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2248/C%20-%20Maximize%20the%20Score/solution.java) |
 
 ### expression parsing
 
@@ -158,6 +159,7 @@
 | 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.java) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.java) |
 | 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.java) |
+| 2248C | [Maximize the Score](https://codeforces.com/contest/2248/problem/C) | 1300 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2248/C%20-%20Maximize%20the%20Score/solution.java) |
 
 ### hashing
 
