@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 23 |
+| 38 | 24 |
 
 ---
 
@@ -23,17 +23,18 @@
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (3)
 - [expression parsing](#expression-parsing) (1)
+- [fft](#fft) (1)
 - [games](#games) (1)
 - [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (8)
+- [greedy](#greedy) (9)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (9)
 - [math](#math) (16)
 - [number theory](#number-theory) (3)
 - [schedules](#schedules) (1)
-- [sortings](#sortings) (6)
-- [strings](#strings) (6)
+- [sortings](#sortings) (7)
+- [strings](#strings) (7)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -120,6 +121,12 @@
 |---|---------|------------|----------|
 | 2197A | [Friendly Numbers](https://codeforces.com/contest/2197/problem/A) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2197/A%20-%20Friendly%20Numbers/solution.java) |
 
+### fft
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
+
 ### games
 
 | # | Problem | Difficulty | Solution |
@@ -150,6 +157,7 @@
 | 2202B | [ABAB Construction](https://codeforces.com/contest/2202/problem/B) | 1200 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2202/B%20-%20ABAB%20Construction/solution.java) |
 | 2217B | [Flip the Bit (Easy Version)](https://codeforces.com/contest/2217/problem/B) | 1000 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2217/B%20-%20Flip%20the%20Bit%20(Easy%20Version)/solution.java) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.java) |
+| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.java) |
 
 ### hashing
 
@@ -215,6 +223,7 @@
 | 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.java) |
 | 2195B | [Heapify 1](https://codeforces.com/contest/2195/problem/B) | 900 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2195/B%20-%20Heapify%201/solution.java) |
 | 2200B | [Deletion Sort](https://codeforces.com/contest/2200/problem/B) | 800 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2200/B%20-%20Deletion%20Sort/solution.java) |
+| 2248B | [Merge to Match](https://codeforces.com/contest/2248/problem/B) | 1000 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2248/B%20-%20Merge%20to%20Match/solution.java) |
 | 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.java) |
 
 ### strings
@@ -227,6 +236,7 @@
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2200/C%20-%20Specialty%20String/solution.java) |
 | 2214B | [Are You Smiling?](https://codeforces.com/contest/2214/problem/B) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2214/B%20-%20Are%20You%20Smiling%3F/solution.java) |
 | 2242D | [Two Digit Strings](https://codeforces.com/contest/2242/problem/D) | 1600 | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2242/D%20-%20Two%20Digit%20Strings/solution.java) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [Java 21](https://github.com/absquare007/leetcode-submission-/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.java) |
 
 ### two pointers
 
